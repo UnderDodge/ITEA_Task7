@@ -6,6 +6,8 @@ package com.playstation.store;
 public class Fight {
     public static void main (String [] args){
         System.out.println("Start");
+        Human human1 = new Human("Cartman",150);
+        Human human2 = new Human("Canny",60);
         System.out.println("End");
     }
 }
