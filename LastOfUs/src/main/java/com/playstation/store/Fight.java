@@ -1,4 +1,4 @@
-package com.playstation.store;
+﻿package com.playstation.store;
 
 /**
  * Created by Администратор on 13.10.2017.
@@ -14,5 +14,7 @@ public class Fight {
         zombie1.eatHuman(human2);
         zombie1.eatHuman(human1);
         System.out.println("End");
+
+        System.out.println("Commits are done!");
     }
 }
